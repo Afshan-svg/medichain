@@ -63,6 +63,11 @@ Get a precautionary alert about diseases you might suffer from, based on our ML 
 
 ![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/6.png?raw=true)
 
+### <u>AI INTEGRATION :</u>
+
+![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/5.png?raw=true)
+
+
 ### <u>MARKETING GOALS :</u>
 
 > ***Offer User-Friendly Platform :***
@@ -100,3 +105,7 @@ Collaborate with healthcare providers to offer a complete solution for medical r
 - Tailwind CSS
 
 ### <u>TEAM THE BOYS :</u>
+Vinit Gurav
+Abhinav Kurup
+Piyaas Paul
+Afshan Khan
