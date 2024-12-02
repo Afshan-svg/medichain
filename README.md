@@ -64,9 +64,9 @@ Get a precautionary alert about diseases you might suffer from, based on our ML 
 ![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/6.png?raw=true)
 
 ### <u>AI INTEGRATION :</u>
+Our decentralized healthcare solution leverages blockchain, IPFS, and advanced AI to revolutionize medical data storage and management. Developed using **Solidity** and tested on **Ganache**, it utilizes **IPFS** for decentralized, tamper-proof storage, ensuring data security and transparency.  
 
-![](https://github.com/Kraniket901/MediVault/blob/master/safe/public/5.png?raw=true)
-
+AI, powered by the **Llama2 Context Model**, drives intelligent data analysis, offering real-time insights, predictive diagnostics, and personalized healthcare recommendations. Smart contracts regulate secure access, putting patients in control of their data while ensuring compliance with privacy standards. This cutting-edge approach eliminates centralization risks, enhances healthcare efficiency, and enables smarter, data-driven decision-making.
 
 ### <u>MARKETING GOALS :</u>
 
